@@ -1,0 +1,34 @@
+Sep 15, 2024 12:45:48 PM murach.email.EmailListServlet doPost
+INFO: Action parameter: add
+Sep 15, 2024 12:46:13 PM murach.email.EmailListServlet doPost
+INFO: Action parameter: join
+Sep 15, 2024 12:47:28 PM murach.email.EmailListServlet doPost
+INFO: Action parameter: add
+Sep 15, 2024 12:47:47 PM murach.email.EmailListServlet doPost
+INFO: Action parameter: join
+Sep 15, 2024 12:59:09 PM murach.email.EmailListServlet doPost
+INFO: Action parameter: add
+Sep 15, 2024 12:59:40 PM murach.email.EmailListServlet doPost
+INFO: Action parameter: add
+Sep 15, 2024 3:13:49 PM murach.email.EmailListServlet doPost
+INFO: Action parameter: add
+Sep 15, 2024 3:16:44 PM murach.email.EmailListServlet doPost
+INFO: Action parameter: join?firstName=hhhh?lastName=hhh?email=hieunghia484@gmail.com
+Sep 15, 2024 3:16:54 PM murach.email.EmailListServlet doPost
+INFO: Action parameter: add
+Sep 15, 2024 6:56:53 PM murach.email.EmailListServlet doPost
+INFO: Action parameter: add
+Sep 15, 2024 6:57:06 PM murach.email.EmailListServlet doPost
+INFO: Action parameter: join
+Sep 15, 2024 6:57:10 PM murach.email.EmailListServlet doPost
+INFO: Action parameter: null
+Sep 15, 2024 6:57:22 PM murach.email.EmailListServlet doPost
+INFO: Action parameter: join
+Sep 15, 2024 6:57:34 PM murach.email.EmailListServlet doPost
+INFO: Action parameter: get
+Sep 15, 2024 6:57:41 PM murach.email.EmailListServlet doPost
+INFO: Action parameter: add
+Sep 15, 2024 6:59:06 PM murach.email.EmailListServlet doPost
+INFO: Action parameter:  add
+Sep 15, 2024 6:59:16 PM murach.email.EmailListServlet doPost
+INFO: Action parameter: add
